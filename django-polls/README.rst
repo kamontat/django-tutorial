@@ -27,3 +27,11 @@ Quick start
    to create a poll (you'll need the Admin app enabled).
 
 5. Visit http://127.0.0.1:8000/polls/ to participate in the poll.
+
+6. (optional) build library by `python setup.py sdist`
+
+Install Library
+---------------
+
+1. run `pip install --user django-polls/dist/django-polls-0.1.tar.gz`
+2. uninstall by `pip uninstall django-polls`
