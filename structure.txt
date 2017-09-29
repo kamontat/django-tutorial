@@ -1,0 +1,40 @@
+.
+├── db.sqlite3
+├── manage.py
+├── pollApp
+│   ├── __init__.py
+│   ├── __pycache__
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── polls
+│   ├── __init__.py
+│   ├── __pycache__
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   │   ├── 0001_initial.py
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   ├── models.py
+│   ├── static
+│   │   └── polls
+│   │       ├── images
+│   │       │   └── background.gif
+│   │       └── style.css
+│   ├── templates
+│   │   └── polls
+│   │       ├── detail.html
+│   │       ├── index.html
+│   │       └── results.html
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+├── requirements.txt
+├── requirements_conda.txt
+├── structure.txt
+└── templates
+    └── admin
+        └── base_site.html
+
+13 directories, 25 files
